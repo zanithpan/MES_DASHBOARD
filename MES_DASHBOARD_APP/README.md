@@ -1,6 +1,6 @@
 # drawer_demo
 
-A Flutter app that demonstrates how to implement the good old NavigationDrawer present in Android Native.
+A Flutter app that demonstrates MES Dashboard
 
 ## Getting Started
 
